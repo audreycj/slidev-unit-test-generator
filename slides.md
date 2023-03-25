@@ -329,12 +329,18 @@ woohoo!
 layout: center
 ---
 
-# now we shall disappear!
+# idk understand this
 
 <div v-click>Hello</div>
 <div v-after>World</div>
 
+--
+layout: center
+---
 
+# disappear!
+
+<div v-click-hide>Hello</div>
 
 
 
@@ -369,7 +375,7 @@ css: unocss
 
 # Welcome to Slidev
 
-Presentation slides for developers
+All the stuff starting this slide are from the default Slidev template
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
