@@ -28,7 +28,7 @@ drawings:
 transition: slide-left
 
 # use UnoCSS
-
+css: unocss
 ---
 
 # こんにちは
@@ -48,5 +48,28 @@ paragraph stuff
 - idea 2
 
 ---
+layout: center
+transition: slide-left
+---
+
+# slide with code snippet
+
+```
+System.out.println("こんにちは！お元気ですか？");
+```
 
 ---
+layout: center
+transition: slide-left
+---
+
+# experimenting with Windi CSS
+
+<p class=""> what the fuck </p>
+
+<style>
+.font-mono {
+  font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+</style>
+
