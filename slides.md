@@ -12,6 +12,22 @@ class: text-center
 # tool used for highlighting code
 highlighter: shiki
 
+# show line numbers when showing code blocks
+lineNumbers: true
+
+# some information about the slides (you can write in markdown syntax)
+info: |
+    ## audrey's slidev template
+    github: https://github.com/audreycj
+
+# persist drawings in exports and build
+drawings:
+    persist: false
+
+# slide transition
+transition: slide-left
+
+# use UnoCSS
 
 ---
 
