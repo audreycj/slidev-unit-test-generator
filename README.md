@@ -1,4 +1,4 @@
-# Unit Testing in Java: A Slidev Presentation
+# Audrey's Personal Slidev Presentation Template
 
 This repository contains a slide deck created using the Slidev presentation tool. The presentation serves as a template for my future presentations as an intern at ChatChatABC, Davao City, Philippines. Each slide showcases different features based on Slidev's official documentation, such as insertion of interactive code snippets, code line highlighting, embedding social media posts, and many more.
 
