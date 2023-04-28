@@ -1,7 +1,6 @@
 # CLI Unit Test Generator: A Slidev Presentation
 
-This repository contains a slide deck created using the Slidev presentation tool. It covers the tools used when creating the application, and was created for my presentation as an intern at ChatChatABC, Davao City, Philippines. Each slide has thorough presenter notes that can be viewed in the slides.md file or through presenter view.
-
+This repository contains a slide deck created using the Slidev presentation tool. It covers the tools used when creating my CLI Unit Test Generator, and was created for my presentation as an intern at ChatChatABC, Davao City, Philippines. Each slide has thorough presenter notes that can be viewed in the slides.md file or through presenter view.
 
 
 ## Getting Started
