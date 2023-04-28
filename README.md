@@ -1,6 +1,6 @@
-# Audrey's Personal Slidev Presentation Template
+# CLI Unit Test Generator: A Slidev Presentation
 
-This repository contains a slide deck created using the Slidev presentation tool. The presentation serves as a template for my future presentations as an intern at ChatChatABC, Davao City, Philippines. Each slide showcases different features based on Slidev's official documentation, such as insertion of interactive code snippets, code line highlighting, embedding social media posts, and many more.
+This repository contains a slide deck created using the Slidev presentation tool. It covers the tools used when creating the application, and was created for my presentation as an intern at ChatChatABC, Davao City, Philippines. Each slide has thorough presenter notes that can be viewed in the slides.md file or through presenter view.
 
 
 
